@@ -19,4 +19,12 @@ MonoBehaviour:
       id: 0
     - name: Pill
       id: 2
-  episodes: []
+  episodes:
+  - title: Episode 1
+    sceneAssets:
+    - {fileID: 102900000, guid: f5f848cda489d44089d012297c045227, type: 3}
+    - {fileID: 102900000, guid: cf8af1738c3cb4b488b72c399f7898f8, type: 3}
+    - {fileID: 102900000, guid: 910d3fc9ad61941dba1f324e2d14c2a3, type: 3}
+    scenes:
+    - Assets/Creator Kit - FPS/Scenes/First level.unity
+    - Assets/Creator Kit - FPS/Scenes/Second level.unity
